@@ -6,7 +6,7 @@ We have six classes, namely: ['cheetah','fox','hyena','lion','tiger','wolf']
 Drive Link: https://colab.research.google.com/drive/1XUznFKzAKjRakcm0ExRqou4HgaPE5i8y?usp=sharing 
 
 Steps to run:<br/> 	
-	• Upload the Image Data Link to the drive from the link above.<br/>
+	• Upload the Split Image Data to the drive from the link above.<br/>
  	• Run all the cells<br/>
   	• The project will save the .h5 and .pkl files to the directory of the dataset.<br/>
   	• Utilize the saved models to predict for future instances.<br/>
